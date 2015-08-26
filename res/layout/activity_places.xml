@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:id="@+id/headerImagePlace"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitXY"
+        android:clickable="false"
+        android:adjustViewBounds="false"
+        />
+
+    <!--
+        <fragment
+            class="com.example.student.projecrdesignui.FragmentListPlace"
+            android:id="@+id/listFragment_Place"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_gravity="fill_vertical"
+            tools:layout="@layout/list_view_fragment"/>
+                   -->
+            <FrameLayout
+                android:id="@+id/fragment_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"></FrameLayout>
+
+
+    </LinearLayout>

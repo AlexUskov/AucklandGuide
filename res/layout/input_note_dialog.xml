@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:weightSum="1">
+
+    <TextView
+        android:text="Enter Note"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textSize="20dp"
+        />
+
+    <EditText
+        android:id="@+id/note_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text|textMultiLine"
+        android:imeOptions="actionDone"
+        android:layout_marginTop="5dp"
+        android:layout_weight="0.29"
+        android:minHeight="100dp"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/saveButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SAVE"
+            android:layout_margin="10dp"
+            android:background="#FFFFBB33"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:layout_weight="1"/>
+
+        <Button
+            android:id="@+id/cancelButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:layout_margin="10dp"
+            android:background="#FFFFBB33"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+</LinearLayout>

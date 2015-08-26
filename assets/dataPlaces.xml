@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <place>
+        <id>1</id>
+        <name>Auckland</name>
+        <category>1</category>
+        <description>Auckland, in the North Island of New Zealand, is the largest and most populous
+            urban area in the country. Auckland has a population of 1,413,700, which constitutes 31
+			percent of the country's population.
+            It is part of the wider Auckland Region, which includes the rural areas and towns north
+            and south of the urban area, plus the islands of the Hauraki Gulf, resulting in a total
+            population of 1,527,100 that is governed by the Auckland Council. Auckland also has the
+            largest Polynesian population of any city in the world. In Māori, Auckland's name is
+            Tāmaki Makaurau and the transliterated version of Auckland is Ākarana.
+            Auckland straddles the Auckland volcanic field, which has produced about 90 volcanic
+            eruptions from 50 volcanoes in the last 90,000 years. It is the only city in the world
+            built on a basaltic volcanic field that is still active. It is estimated that the field
+            will stay active for about 1 million years. Surface features include cones, lakes,
+            lagoons, islands and depressions, and several have produced extensive lava flows. Some
+            of the cones and flows have been partly or completely quarried away.
+            Auckland lies on and around an isthmus, less than two kilometres wide at its narrowest
+            point, between Mangere Inlet and the Tamaki River. There are two harbours in the
+            Auckland urban area surrounding this isthmus: Waitemata Harbour to the north, which
+            opens east to the Hauraki Gulf, and Manukau Harbour to the south, which opens west to
+            the Tasman Sea. The total coastline of Auckland is 3,702 km in length.
+            Bridges span parts of both harbours, notably the Auckland Harbour Bridge crossing the
+            Waitemata Harbour west of the Auckland Central Business District (CBD). The Mangere
+            Bridge and the Upper Harbour Bridge span the upper reaches of the Manukau and Waitemata
+            Harbours, respectively. In earlier times, portage paths crossed the narrowest sections
+            of the isthmus</description>
+        <picture>auckland_pic</picture>
+        <latitude>-36.84846</latitude>
+        <longitude>174.76333</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>2</id>
+        <name>Mission Bay</name>
+        <category>2</category>
+        <description>Mission Bay  is a seaside suburb of Auckland city. The suburb's beach is a
+            popular resort, located alongside Tamaki Drive. The area also has a wide range of
+            eateries. Mission Bay is located seven kilometres to the east of the city centre, on
+            the southern shore of the Waitematā Harbour, between Orākei and Kohimarama. It covers
+            an area of 1.08 km2 (267 acres), about three quarters of which comprises low hills,
+            surrounding the remaining quarter, which slopes down to the sea. Local government of
+            Mission Bay is the responsibility of the Orakei Local Board, which also includes the
+            suburbs of Orākei, Kohimarama, St Heliers, Glendowie, St Johns, Meadowbank, Remuera
+            and Ellerslie.
+            Mission Bay sits on three parcels of land comprising part of the Kohimarama block
+            bought from the Crown in the early 1840s. The area used to be referred to as ‘Kohimarama’,
+            a name now given to a neighbouring suburb Kohimarama.</description>
+        <picture>mission_bay</picture>
+        <latitude>-36.84825</latitude>
+        <longitude>174.83177</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>3</id>
+        <name>Point Chevalier</name>
+        <category>2</category>
+        <description>Point Chevalier Beach is a suburb and peninsula in the west of the city of
+            Auckland in the north of New Zealand. It is located five kilometres to the west of
+            the city centre on the southern shore of the Waitemata Harbour.
+            Point Chevalier Beach is one of the best beaches on the Waitemata Harbour, and certainly
+            the best west of the city. With its safe swimming, ample shade and the excellent
+            playground in adjacent Colye Park, it makes a great inner city outing for the family.
+            Coyle Park is at the northern end of Point Chevalier Rd, where there is ample parking.
+            The park has an excellent and newly revamped playground and acres of space for the kids
+            to run around. The park is at the very tip of the peninsula so there are good views out
+            over the harbour.</description>
+        <picture>point_chev</picture>
+        <latitude>-36.85491</latitude>
+        <longitude>174.70201</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>4</id>
+        <name>Cheltenham beach</name>
+        <category>2</category>
+        <description>Relax and breathe in the fresh sea air as you explore Devonport’s famous
+            Cheltenham beach. Marvel at the awesome sea views from the shore or take a refreshing
+            dip in the calm ocean waters.
+            The long sandy stretch of Cheltenham Beach is popular with locals and visitors for
+            swimming, strolling and relaxing! There are also grassy areas that are great for picnics
+            and enjoying fish and chips by the beach.
+            Located 1.5 km away from the ferry terminal – it’s an easy and scenic walk to Cheltenham
+            Beach. Along the route you will see beautifully restored Victorian villas – many with
+            spectacular ocean views.
+            North Head can be easily accessed from Cheltenham Beach and the Vauxhall Road shops are
+            also conveniently located nearby.</description>
+        <picture>cheltenham</picture>
+        <latitude>-36.82165</latitude>
+        <longitude>174.80915</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>5</id>
+        <name>Orewa beach</name>
+        <category>2</category>
+        <description>Orewa, a town in New Zealand's North Island, lies on the Hibiscus Coast, just
+            north of the base of the Whangaparaoa Peninsula and 40 kilometres north of central
+            Auckland.
+            Orewa beach is one of the longest and safest beaches in Auckland. One of the more
+            notable events on the beach is the Orewa Big Dig. This is an annual event organized
+            by the local Lions Club, where children dig in the sand to find prizes. All monies
+            raised go to local community groups. Orewa Community Centre is located in Orewa Square.
+            The Hibiscus Community Centre is located at 214E Hibiscus Coast Highway.</description>
+        <picture>orewa</picture>
+        <latitude>-36.58448</latitude>
+        <longitude>174.69645</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>6</id>
+        <name>Farmers Santa Parade</name>
+        <category>3</category>
+        <description>The Auckland Santa Parade features all the amazing pageantry, fun and surprises
+            that have made this annual Auckland City extravaganza a perennial favourite.
+            November.</description>
+        <picture>santaparade</picture>
+        <latitude>-36.84846</latitude>
+        <longitude>174.76333</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>7</id>
+        <name>New Zealand Fashion Week</name>
+        <category>3</category>
+        <description>Held over seven days, New Zealand Fashion week presents a number of fashion
+            shows for well known and up and coming New Zealand designers.
+            September</description>
+        <picture>fas_week</picture>
+        <latitude>-36.84846</latitude>
+        <longitude>174.76333</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>8</id>
+        <name>Auckland Lantern Festival</name>
+        <category>3</category>
+        <description>Be enchanted - immerse yourself in the magic of the Auckland Lantern Festival
+            in two stunning venues, each showcasing the diversity of Chinese culture.
+            February</description>
+        <picture>lanternfest</picture>
+        <latitude>-36.84846</latitude>
+        <longitude>174.76333</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>9</id>
+        <name>Auckland Arts Festival</name>
+        <category>3</category>
+        <description>The globally-recognised Auckland Arts Festival celebrates people and culture,
+            and showcases the cultural diversity and vibrant energy of New Zealand's largest city.
+            March</description>
+        <picture>artfest</picture>
+        <latitude>-36.84846</latitude>
+        <longitude>174.76333</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>10</id>
+        <name>Restaurant Month</name>
+        <category>3</category>
+        <description>Indulge in some of Auckland’s best cuisine during Restaurant Month. Try
+            specially created menus at more than 100 central city restaurants, watch live chef
+            demonstrations, enjoy tastings and talks at the Wine AKL event, and don’t miss the
+            delicious international street food at Street Eats.
+            August</description>
+        <picture>rest_month</picture>
+        <latitude>-36.84846</latitude>
+        <longitude>174.76333</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>11</id>
+        <name>Auckland War Memorial Museum</name>
+        <category>4</category>
+        <description>Auckland War Memorial Museum is one of New Zealand's most important museums
+            and war memorials. Its collections concentrate on New Zealand history (and especially
+            the history of the Auckland Region), natural history, as well as military history.
+            The museum is also one of the most iconic Auckland buildings, constructed in the
+            neo-classicist style, and sitting on a grassed plinth (the remains of a dormant volcano)
+            in the Auckland Domain, a large public park close to the Auckland CBD.</description>
+        <picture>war_museum</picture>
+        <latitude>-36.86038</latitude>
+        <longitude>174.77782</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>12</id>
+        <name>New Zealand Maritime Museum</name>
+        <category>4</category>
+        <description>The New Zealand Maritime Museum is New Zealand's premier maritime museum. It is
+            located on Hobson Wharf Auckland, adjacent to Viaduct Harbour. It houses exhibitions
+            spanning New Zealands maritime history from the first Polynesian explorers to modern day
+            triumphs at the America's Cup.
+            Its Maori name is 'Te Huiteanaui-A-Tangaroa' - holder of the treasures of Tangaroa
+            (the Sea God).</description>
+        <picture>maritime</picture>
+        <latitude>-36.84213</latitude>
+        <longitude>174.76348</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>13</id>
+        <name>Auckland Art Gallery Toi o Tāmaki</name>
+        <category>4</category>
+        <description>Auckland Art Gallery Toi o Tāmaki is the principal public gallery in Auckland,
+            New Zealand, and has the most extensive collection of national and international art in
+            New Zealand. It frequently hosts travelling international exhibitions.
+            Set below the hilltop Albert Park in the central-city area of Auckland, the gallery was
+            established in 1888 as the first permanent art gallery in New Zealand.
+            The building originally housed the Auckland Art Gallery as well as the Auckland public
+            library opening with collections donated by benefactors Governor Sir George Grey and
+            James Tannock Mackelvie.</description>
+        <picture>art_galery</picture>
+        <latitude>-36.85136</latitude>
+        <longitude>174.76624</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>14</id>
+        <name>Papakura Museum</name>
+        <category>4</category>
+        <description>Continue to look at the past and draw on that knowledge as you journey forward
+            to the future.
+            Papakura Museum is a community museum founded by members of the Papakura and Districts
+            Historical Society (PDHS) and which continues to function with the aid of Society
+            volunteers. It is home to a continually growing collection of photographs, objects and
+            documents which tell the story of Papakura and surrounding Districts.</description>
+        <picture>papakura_museum</picture>
+        <latitude>-37.06384</latitude>
+        <longitude>174.94158</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>15</id>
+        <name>Albert Park</name>
+        <category>5</category>
+        <description>Albert Park is a public park in central Auckland, bounded by Wellesley Street
+            East, Princes Street, Bowen Avenue and Kitchener Street. From the entrance at the corner
+            of Bowen Ave and Kitchener St, sealed footpaths climb steeply through native trees to
+            the large flat area at the summit, where a formal layout of paths and flower gardens
+            encircle a fountain.</description>
+        <picture>albert_park</picture>
+        <latitude>-36.85045</latitude>
+        <longitude>174.76766</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>16</id>
+        <name>Cornwall Park</name>
+        <category>5</category>
+        <description>Cornwall Park is the legacy of Sir John Logan Campbell. Originally
+        the land was a farm owned by him on the outskirts of Auckland. Upon his return from Italy
+        in the 1880s he intended to build a great family residence on the slopes of the hill (where
+        the current tearooms are) and planted many trees including olives on the slopes. Eventually
+        he constructed a house closer to town (the land is now part of the Parnell Rose gardens).
+        By about 1900 he realised that Auckland's suburbs were spreading at an alarming rate and he
+        decided to leave the Greenlane property to the city as a park. Parts of the park, about 120
+        hectares (296.5 acres), are still run as a farm today, providing Aucklanders with access to
+        an example of rural life in the heart of the city.
+        One Tree Hill Domain (118 acres / 48 hectares) is an Auckland Council-administered park
+        adjoining Cornwall Park (425 acres / 172 hectares) creating a total of 220 hectares (540
+        acres) of public green space.</description>
+        <picture>cornwall</picture>
+        <latitude>-36.89779</latitude>
+        <longitude>174.78769</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>17</id>
+        <name>The Auckland Domain</name>
+        <category>5</category>
+        <description>The Auckland Domain is Auckland's oldest park, and at 75 hectares one
+        of the largest in the city. Located in the central suburb of Grafton, the park contains all
+        of the explosion crater and most of the surrounding tuff ring of the Pukekawa volcano.
+        The Auckland Domain volcano, Pukekawa, is one of the oldest in the Auckland Volcanic Field,
+        and consists of a large explosion crater surrounded by a tuff ring with a small scoria cone
+        (Pukekaroro) in the centre of the crater. Its tuff ring, created by many explosive eruptions,
+        is made of a mixture of volcanic ash, lapilli and fragmented sandstone country rock.</description>
+        <picture>domain</picture>
+        <latitude>-36.85893</latitude>
+        <longitude>174.77549</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>18</id>
+        <name>Western Springs</name>
+        <category>5</category>
+        <description>Western Springs is a residential suburb and park in the west of the city of
+            Auckland in the north of New Zealand. It is located four kilometres to the west of the
+            city centre. The park is situated to the north of State Highway 16 and the residential
+            suburb is located southeast of the park on the opposite side of State Highway 16.
+            The suburb is dominated by the large park (featuring a lake with a variety of birdlife),
+            within which are situated Auckland Zoo, Western Springs Stadium and M.O.T.A.T.
+            (the Museum of Transport and Technology). The park is the location of the annual
+            Pasifika Festival, one of Auckland's most popular public events.
+            Western Springs Park consists of a sanctuary for wildlife, surrounding a lake fed by the
+            natural springs. There are walking paths surrounding the lake with bridges going across
+            sections of it. Auckland Zoo, MOTAT and Western Springs Stadium are all situated around
+            the park.</description>
+        <picture>westernsprings</picture>
+        <latitude>-36.86816</latitude>
+        <longitude>174.72590</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>19</id>
+        <name>Long Bay Regional Park</name>
+        <category>5</category>
+        <description>Long Bay Beach provides 1 km of white sand, safe swimming as well as a
+            tree-lined park environment which makes it a popular family attraction. The sea off
+            Long Bay is in the Long Bay-Okura Marine Reserve. Multiple park areas on the verge of
+            the beach provide: playgrounds with equipment suitable for preschoolers and older
+            children; flying fox; miniature ride-on train; restaurant; picnic and BBQ areas
+            (which can also be booked for private functions via the Auckland Council) and walking
+            tracks. The park and beach are monitored by park rangers who enforce park rules
+            including dog exclusion areas, no fishing and no littering.
+            Maori occupants of Long Bay gave it the name Oneroa, meaning long expanse of sand. Ngati
+            Kahu was the main tribal group to live here until European settlement began in the
+            1850s.</description>
+        <picture>long_bay</picture>
+        <latitude>-36.67574</latitude>
+        <longitude>174.74592</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>20</id>
+        <name>Shakespear Regional Park</name>
+        <category>5</category>
+        <description>Shakespear Regional Park is a nature park in the Auckland Region of New Zealand.
+            It is located at the tip of the Whangaparaoa Peninsula, and is named after the
+            Shakespear family which bought the land in the 1880s from local Maori.
+            The Park is home to three walkways, Heritage Trail, Lookout Track and Tiri Tiri Track.
+            Much of the coastline is lined by sandstone cliffs, which shelter the beach-lined Te
+            Haruhi Bay. At the Park's western border, a narrow lowland separates Okoromai and Army
+            Bays.
+            Together with New Zealand Defence Force land to the north, most of the Park lies within
+            the Shakespear Open Sanctuary. A 1.7-kilometre (1.1 mi) pest/predator-proof fence
+            (completed March 2011) across the peninsula between protects the park's wildlife. This
+            includes resident invertebrates and lizards, along with birds migrating from the nearby
+            Tiritiri Matangi island sanctuary. Brodifacoum poison airdrops were conducted in July
+            2011 to eradicate mammalian pests. The Shakespear Open Sanctuary Society has worked with
+            the government landowners to establish and develop the sanctuary.</description>
+        <picture>shekspeare</picture>
+        <latitude>-36.60780</latitude>
+        <longitude>174.82290</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>21</id>
+        <name>Crater Hill</name>
+        <category>6</category>
+        <description>Crater Hill is one of the volcanoes of the Auckland Volcanic Field. It consists
+            of an explosion crater about 600m wide, partly filled with water.
+            Late in the eruption sequence lava welled up inside the explosion crater creating a lava
+            lake. This lake began cooling on the surface and around the edge, creating a solid
+            basalt crust. When the molten lava withdrew back down the volcano's throat, the crust
+            surface collapsed, creating the island in the middle of the present lake, and some of
+            the solid basalt was left around the inside walls of the crater marking the former level
+            of the lava lake. Two lava caves – Selfs and Underground Press Lava Caves – exist
+            beneath the remnant crust on the south side of the crater.</description>
+        <picture>craterhill</picture>
+        <latitude>-36.98644</latitude>
+        <longitude>174.82674</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>22</id>
+        <name>Greenmount</name>
+        <category>6</category>
+        <description>Green Hill (also Matanginui or Greenmount) is one of the volcanoes in the
+            Auckland volcanic field, located in the suburb of Greenmount. Its scoria cone had a peak
+            78 metres above sea level (around 48 m higher than the surrounding land), and had a
+            grove of karaka trees. The hill was the site of a pā. It was quarried from 1870 onwards,
+            and has been mostly quarried away. The site is now Greenmount landfill. Green Hill and
+            nearby Otara Hill were together referred to as Bessy Bell and Mary Gray after an old
+            Scottish ballad.</description>
+        <picture>greenhill</picture>
+        <latitude>-36.93840</latitude>
+        <longitude>174.89788</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>23</id>
+        <name>Hampton Park</name>
+        <category>6</category>
+        <description>Hampton Park is one of the volcanoes in the Auckland Volcanic Field. A small
+            scoria cone reaching 35 m above sea level, with a shallow crater around 50 m wide, which
+            has been modified by quarrying. The scoria cone sits in the centre of a much larger
+            explosion crater - the eastern arc of the surrounding tuff ring is still present.
+            Stone from the volcano was used to build dry-stone walls and the nearby St John's Church
+            built on the tuff ring crest.This volcanoes is a cone volcano.</description>
+        <picture>hampton_park</picture>
+        <latitude>-36.95100</latitude>
+        <longitude>174.89552</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>24</id>
+        <name>Lake Pupuke</name>
+        <category>6</category>
+        <description>Lake Pupuke is a heart-shaped freshwater lake occupying a volcanic explosion
+            crater between the suburbs of Takapuna and Milford on the North Shore of Auckland, New
+            Zealand.
+            Separated from the sea by less than 200 m at one point, it has a circumference of about
+            4.5 km and reaches 57m in depth. It is popular for recreational activities and the
+            lakefront property around it.
+            The crater wall has been quarried in several places, most intensely on the western side
+            between Shea Terrace and Rangitira Avenue, where Smales Quarry continues to operate.
+            A long thin lagoon called Quarry Lake has been formed there by flooding a former quarry
+            area.</description>
+        <picture>lake_pupuke</picture>
+        <latitude>-36.78016</latitude>
+        <longitude>174.76611</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>25</id>
+        <name>Mount Eden</name>
+        <category>6</category>
+        <description>Mt Eden (Maungawhau) is one of the most prominent volcanic cones remaining in
+            the Auckland region. Erupting about 15,000 years ago from three overlapping scoria
+            cones, it formed a huge scoria mound with a central crater from the last eruption.
+            Lava flowed out from the base of the mound, and in some places the lava is more than
+            60 metres thick.
+            Maungawhau was a significant fortified pā, large enough to provide refuge for several
+            hundred people. Extensive earthworks modified the steep upper slopes of the
+            cone.</description>
+        <picture>mteden</picture>
+        <latitude>-36.87714</latitude>
+        <longitude>174.76426</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>26</id>
+        <name>One Tree Hill</name>
+        <category>6</category>
+        <description>One Tree Hil is a 182-metre (597 ft) volcanic peak in Auckland, New Zealand.
+            It is an important memorial place for both Maori and other New Zealanders. The suburb
+            around the base of the hill is also called One Tree Hill; it is surrounded by the
+            suburbs of Royal Oak to the west, and clockwise, Epsom, Greenlane, Oranga, and Onehunga.
+            The summit provides views across the Auckland area, and allows visitors to see both of
+            Auckland's harbours.
+            The hill's scoria cones were erupted from three craters – one is intact and two have
+            been breached by lava flows that rafted away part of the side of the scoria cone. Lava
+            flows went in all directions, many towards Onehunga, covering an area of 20km2, making
+            it the second largest  of the Auckland volcanic field, behind Rangitoto Island. The age
+            of eruption is currently unknown, but it is older than 28,500 years as it has a mantling
+            of volcanic ash erupted at that time from Te Tatua-a-Riukiuta volcano.
+            When Auckland was founded as a colonial town a tree stood near the summit which gave the
+            hill its English name.</description>
+        <picture>onetreehill</picture>
+        <latitude>-36.90003</latitude>
+        <longitude>174.78320</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+    <place>
+        <id>27</id>
+        <name>Rangitoto Island</name>
+        <category>6</category>
+        <description>Rangitoto Island is a volcanic island in the Hauraki Gulf near Auckland, New
+            Zealand. The 5.5 km wide island is an iconic and widely visible landmark of Auckland
+            with its distinctive symmetrical shield volcano cone rising 260 metres (850 ft) high
+            over the Hauraki Gulf. Rangitoto is the most recent and the largest (2311 hectares) of
+            the approximately 50 volcanoes of the Auckland volcanic field.
+            Rangitoto was formed by a series of eruptions between 550 and 600 years ago. The
+            eruptions occurred in two episodes, 10–50 yrs apart, and are thought to have lasted for
+            several years during the later shield-forming episode. The first episode erupted most
+            of the volcanic ash that mantles Motutapu Island next door, and produced the lower,
+            northern, scoria cone. </description>
+        <picture>rangitoto</picture>
+        <latitude>-36.78988</latitude>
+        <longitude>174.86722</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>28</id>
+        <name>Little Rangitoto</name>
+        <category>6</category>
+        <description>Little Rangitoto (also Maungarahiri) is one of the volcanoes in the Auckland 
+		Volcanic Field. This scoria cone had a peak 75 m above sea level (30 m higher than the 
+		surrounding land) before it was mostly quarried away. The quarry site is now Little Rangitoto 
+		Reserve, having been partly filled with refuse in the 1950s. Remnants of the southern slopes 
+		of the cone lie south of the reserve and underlie houses in Ventnor Rd. A lava flow burst 
+		forth from the northwestern base of the cone and flowed north down the valley west of Orakei 
+		Basin tuff ring and out into what is now Hobson Bay.</description>
+        <picture>little_rangitoto</picture>
+        <latitude>-36.87562</latitude>
+        <longitude>174.80954</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>29</id>
+        <name>Mangere Lagoon</name>
+        <category>6</category>
+        <description>Mangere Lagoon is a lagoon in the Manukau Harbour, New Zealand. 
+		It occupies a volcanic crater or maar which is part of the Auckland volcanic field. 
+		Oval and about 600m long, it has a small restored scoria island remaining in the centre.
+		In the 1930s efforts were made to drain the swamp for conversion to pasture, while in the late 1950s, 
+		earthworks for sewage sludge ponds in the lagoon removed the scoria cone and the crater was divided into ponds.</description>
+        <picture>mangere</picture>
+        <latitude>-36.95635</latitude>
+        <longitude>174.77755</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>30</id>
+        <name>Mangere Mountain</name>
+        <category>6</category>
+        <description>Mangere Mountain in Mangere Domain is one of the largest volcanic cones in the 
+		Auckland volcanic field, with a peak 106 metres above sea level. It was the site of a major 
+		pā (Māori fortified settlement) and many of the pā's earthworks are still obvious. 
+		It offers spectacular panoramic views of Auckland from its location in the suburb of Mangere.
+		The volcano features two large craters. It has a wide crater with a lava dome near its centre, 
+		a feature shared by no other volcano in Auckland. It last erupted approximately 18,000 years ago.</description>
+        <picture>mangere_mountain</picture>
+        <latitude>-36.94989</latitude>
+        <longitude>174.78290</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>31</id>
+        <name>Matukutureia</name>
+        <category>6</category>
+        <description>Matukutūreia (also McLaughlins Mountain) is one of the volcanic cones in the Auckland Volcanic Field. 
+		It has a peak 73 metres above sea level, and was the site of a pā. The scoria cone was originally crescent-shaped 
+		and featured Māori terraces and kumara pits, before extensive quarrying reduced it to a pyramid-shaped mound big 
+		enough to support the summit water tank for Papatoetoe. A small part of the summit and the eastern side of the 
+		cone were left unquarried, plus a large area of lava flows to the south of the cone remains intact. These 
+		remaining parts have recently been transferred to Department of Conservation Management, primarily because 
+		of the high heritage values of the Matukuturua Stonefields gardens.</description>
+        <picture>matukutureia</picture>
+        <latitude>-37.01575</latitude>
+        <longitude>174.84285</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>32</id>
+        <name>Browns Island</name>
+        <category>6</category>
+        <description>Browns Island or Motukorea is a small New Zealand island, in the Hauraki Gulf north of Musick Point,
+		one of the best preserved volcanoes in the Auckland Volcanic Field. The age of eruption is currently unknown. 
+		Due to centuries of cultivation, little native bush remains except on the north-eastern cliffs, leaving the 
+		volcanic landforms easily visible. It exhibits the landforms from three styles of eruption. The island consists 
+		of one main scoria cone with a deep crater, a small remnant arc of the tuff ring forming the cliffs in the northeast, 
+		and the upper portions of lava flows. The area was dry land when the eruptions occurred, but much of the lava is now 
+		submerged beneath the sea.</description>
+        <picture>browns_island</picture>
+        <latitude>-36.83021</latitude>
+        <longitude>174.89453</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>33</id>
+        <name>Mount Hobson</name>
+        <category>6</category>
+        <description>Mount Hobson (also known as Ōhinerangi and Remuwera) is a 143 m high volcanic cone in the Auckland 
+		volcanic field in Auckland, New Zealand.
+		Located in the Remuera suburb, to the east of the Newmarket commercial suburb, it has been extensively modified 
+		by human use, first by Māori for use as a pā and later by use as quarry and pasture land before finally having a 
+		water reservoir installed in its cone to supply the surrounding area. An additional, partially buried, water 
+		reservoir was built on the low southern side of the mountain in 1955. English oaks and pōhutukawa are the most 
+		common trees on the hill.</description>
+        <picture>mt_hobson</picture>
+        <latitude>-36.86667</latitude>
+        <longitude>174.78333</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>34</id>
+        <name>Maungauika</name>
+        <category>6</category>
+        <description>Maungauika is a volcano forming a headland called North Head at the east end of the Waitemata 
+		Harbour in Auckland, New Zealand in the suburb of Devonport. Known for its sweeping views over the harbour 
+		and the Hauraki Gulf, since 1885 the head was mainly used by the military as a coastal defence installation, 
+		which left a network of accessible old bunkers and tunnels as its legacy, forming part of the attraction. 
+		The site was protected as part of Hauraki Gulf Maritime Park in 1972 and listed as a Category I historic 
+		place in 2001. As part of a 2014 Treaty of Waitangi claim settlement the volcanic cone was officially 
+		named Maungauika and the reserve renamed Maungauika / North Head Historic Reserve. Maungauika is the 
+		Māori word for Mountain of Uika.</description>
+        <picture>maungauika</picture>
+        <latitude>-36.82708</latitude>
+        <longitude>174.81182</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>35</id>
+        <name>Mount Victoria</name>
+        <category>6</category>
+        <description>akarunga / Mount Victoria is the highest volcano on Auckland's North Shore, rising to 87 m. 
+		Its age is currently unknown. Its lava flows now line much of Devonport's waterfront. An important pa once 
+		occupied its slopes, and some of the pa's earthworks can still be seen. A scoria mound known as Duders 
+		Hill, on Takarunga / Mount Victoria's southern slopes was mostly quarried away. The name Mount Victoria comes 
+		from Queen Victoria and the name Takarunga means "the hill standing above". Jules Dumont d'Urville climbed 
+		the hill in 1827.</description>
+        <picture>mount_victoria</picture>
+        <latitude>-36.82649</latitude>
+        <longitude>174.79876</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>36</id>
+        <name>Piha</name>
+        <category>2</category>
+        <description>A popular holiday resort with a lovely black-sand surf beach. Currents can be dangerous and swimmers 
+		should stay between the flags during summer. North of the beach, walking trails lead to lookouts over the Tasman 
+		Sea on Te Waha Point and Fisherman's Rock Point. For those with a head for heights, a steep track leads up Lion 
+		Rock (101 metres), providing excellent views at the top. South of the beach, another track leads over the hill 
+		to the Gap with its raging seas, and on to the Piha blowhole further up the valley.</description>
+        <picture>piha</picture>
+        <latitude>-36.95302</latitude>
+        <longitude>174.46881</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>37</id>
+        <name>Karekare</name>
+        <category>2</category>
+        <description>A beautiful surf beach hemmed in by high promontories at either end, with good walking tracks along 
+		the cliff-tops overlooking the Tasman Sea.  A track leads around the shoreline to Whatipu but is only negotiable 
+		at low tide. The opening scenes of Jane Campion's film The Piano were shot here.</description>
+        <picture>karekare</picture>
+        <latitude>-36.99376</latitude>
+        <longitude>174.47001</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>38</id>
+        <name>Whatipu</name>
+        <category>2</category>
+        <description>One of Auckland's scenic gems, this 12-kilometre-long black-sand beach is popular with surfers, 
+		walkers and fishers. There are caves to explore along the length of the beach, and the sands now cover an old 
+		kauri dance-floor which once hosted outdoor dances. Whatipu Lodge, a 140-year-old farmhouse behind the beach, 
+		provides self-catering accommodation and a 1-hectare campsite with pit toilets and running water.</description>
+        <picture>whatipu</picture>
+        <latitude>-37.02799</latitude>
+        <longitude>174.49539</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>39</id>
+        <name>Muriwai</name>
+        <category>2</category>
+        <description>The longest of Auckland's west coast beaches (50 kilometres), Muriwai is part of an 183-hectare 
+		regional park catering for swimmers, surfers, golfers, birdwatchers and bushwalkers. The beach is home to a 
+		thriving gannet colony and a scenic boardwalk leads from the parking area to special viewing platforms, 
+		allowing superb views of the birds. The cliffs behind Maori Bay, just around the south headland from Muriwai, 
+		contain some of the world's best-preserved examples of pillow lava, formed by underwater volcanic eruptions 
+		about 17 million years ago. Trails lead up into the bush from Waitea Road and provide good views up the coast. 
+		Muriwai Beach Motor Camp, behind the sand dunes, offers caravan and tent sites, with hot showers, toilets, 
+		laundry and cooking facilities.</description>
+        <picture>muriwai</picture>
+        <latitude>-36.82797</latitude>
+        <longitude>174.42617</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>40</id>
+        <name>Bethells</name>
+        <category>2</category>
+        <description>Named for the canoe-hull forms of the sand dunes, Te Henga was the location for many 
+		scenes in the Hercules and Xena: Warrior Princess television series. The black sand stretches 
+		for kilometres, while the rocks provide a good spot for fishing.</description>
+        <picture>bethells</picture>
+        <latitude>-36.89365</latitude>
+        <longitude>174.44632</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>41</id>
+        <name>Browns Bay</name>
+        <category>2</category>
+        <description>A great summer beach with it's occasionally clear waters and extensive long green area 
+		not too far from the sand. There are several access points to Browns Bay with a side street road for 
+		parking as well as along the main strip just behind the cafes, restaurants and several 
+		ice cream/gelato stores in the town centre. 
+		In classic East-coast style, you can see Rangitoto Island from the green or the golden sand. 
+		It's already a fairly long beach but at low tide especially it becomes expansively so much sand. 
+		At very high tide though there's almost none. The water itself is great for swimming and very popular as a result.</description>
+        <picture>browns_bay</picture>
+        <latitude>-36.71443</latitude>
+        <longitude>174.74977</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>42</id>
+        <name>Kohimarama</name>
+        <category>2</category>
+        <description>The next beach along from teeming Mission Bay, Kohi provides a welcome departure from the 
+		throngs of crowds, and a bit of peace and quiet.
+		Granted, there aren't nearly as many shops and cafes around (Kohi beach cafe/the Store are really the only 
+		beachfront options), but as long as there's nice coffee and/or ice cream available.</description>
+        <picture>kohimarama</picture>
+        <latitude>-36.85020</latitude>
+        <longitude>174.84468</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>43</id>
+        <name>Milford Beach</name>
+        <category>2</category>
+        <description>Milford Beach in Auckland East Coast is a sheltered beach and reef break that only works once in a while. 
+		Spring and Summer provide the best conditions. The best wind direction is from the west. Tends to receive distant 
+		groundswells and the ideal swell angle is from the northeast. The beach break provides left and right handers and 
+		there are also left and right hand reef breaks on offer.. Best around high tide. When the surf is up, it can get 
+		quite busy in the water. Beware of rocks, locals and pollution.</description>
+        <picture>milford</picture>
+        <latitude>-36.76889</latitude>
+        <longitude>174.77167</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>44</id>
+        <name>Judges Bay</name>
+        <category>2</category>
+        <description>Judges Bay is located at the bottom of the Parnell Rose Gardens. Named after 3 magistrates who 
+		built houses there in early colonial days, it became a tidal lagoon in the 1920s following the construction 
+		of Tamaki Drive.
+		Having undergone a major replenishment project in 2011, the bay is a popular swimming spot featuring a small 
+		beach, jetty, pontoons and picnic tables. There is a also 1.6km walk covering the surrounding land taking you 
+		through the rose gardens past St Stephens chapel and up to Point Resolution.</description>
+        <picture>judges</picture>
+        <latitude>-36.84909</latitude>
+        <longitude>174.78761</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>45</id>
+        <name>Mairangi Bay</name>
+        <category>2</category>
+        <description>This golden sand beach is wonderful as it's just behind the strip of many great little cafes 
+		and shops as well as one of the beaches along East Coast bays with the concrete walkway. It's connected to 
+		Murrays one way and Campbell's the other way and makes for a nice treat, especially with a buddy or a 4-legged companion. 
+		It's best at low tide but it was also a shrieking-good surprise with the waves coming in at high tide as well.</description>
+        <picture>mairangi</picture>
+        <latitude>-36.73807</latitude>
+        <longitude>174.75593</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>46</id>
+        <name>M J Savage Memorial Park</name>
+        <category>5</category>
+        <description>Situated off Tamaki Drive near Mission Bay, The Michael Joseph Savage Memorial Park is set amongst 49 
+		hectares of land with impressive panoramic views overlooking Waitemata harbour and Rangitoto Island.
+		The tall obelisk, sunken pool and landscaped gardens is a memorial to New Zealand's first Labour Prime 
+		Minister (1872 - 1940) and also the founder of the Welfare State.
+		In 1860, 1879 and 1880 Ngati Whatua leaders Tuhaere and Te Kawau assembled many North Island chiefs to the 
+		Kohimaramara Conference to establish a Maori Parliament. They sought to redress on land issues and equality 
+		under the law. In the 1930's the Maori sought remedy through Michael Savage, the serving Prime Minister of 
+		the Labour Government. With Maori support Labour had entered Parliament for the first time, beginning a long-standing relationship.</description>
+        <picture>memorialpark</picture>
+        <latitude>-36.84856</latitude>
+        <longitude>174.82675</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>47</id>
+        <name>Victoria Park</name>
+        <category>5</category>
+        <description>Victoria Park is a park and sports ground in Auckland City, New Zealand, it was opened in 
+		1905 and named after the late Queen who had died four years earlier. It lies on reclaimed bay land in 
+		Freemans Bay, a suburb directly west of the Auckland CBD. However, it does not have direct connection 
+		to the foreshore anymore, as the Western Reclamation and the Viaduct Basin quarter lie between it and 
+		the Waitemata Harbour. The bay started to be filled in as early as the 1870s although the bulk of the 
+		reclamation appears to have happened after 1901. The Park was 'finished' around 1912, the area to the 
+		north (called the Western Reclamation) dates from after that.</description>
+        <picture>victoriapark</picture>
+        <latitude>-36.84739</latitude>
+        <longitude>174.75435</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>48</id>
+        <name>Meola Reef Reserve</name>
+        <category>5</category>
+        <description>Meola Reef Reserve is a very large nature reserve of geological interest covers nearly 15 hectares.
+		The longest lava flow in the Auckland volcanic field, it contains natural mangroves and salt marsh on the landward end.
+		As a unique reef habitat for intertidal organisms in the Waitemata Harbour, it's a fascinating walk for those discoverers amongst us.</description>
+        <picture>meola</picture>
+        <latitude>-36.85763</latitude>
+        <longitude>174.71139</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>49</id>
+        <name>Auckland Regional Botanic Gardens</name>
+        <category>5</category>
+        <description>Auckland Botanic Gardens, Auckland, New Zealand is a botanical garden that covers 64 hectares
+		in Manurewa, South Auckland. The first purchase of land by the Auckland Regional Authority (ARA) – predecessor 
+		of Auckland Regional Council (ARC) – dates back to 1968. Developments started in 1973. The garden was officially 
+		opened to the public in 1982. In that same year the first (and until now only) Visitors Guide was published.
+		It now holds more than 10,000 plants.</description>
+        <picture>botanic</picture>
+        <latitude>-37.01142</latitude>
+        <longitude>174.90719</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>50</id>
+        <name>Ambury Regional Park</name>
+        <category>5</category>
+        <description>Ambury is a working farm, education centre and bird watcher’s paradise located on the shores of the Manukau Harbour.
+​​		Beautiful scenery and fascinating history combine at Ambury – the park sits atop ash-covered lava flows and stone mounds 
+		mark early Māori gardening sites.</description>
+        <picture>ambury</picture>
+        <latitude>-36.94581</latitude>
+        <longitude>174.75926</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>51</id>
+        <name>Waitakere Ranges Regional Parkland</name>
+        <category>5</category>
+        <description>The Waitakere Ranges are a chain of hills in the Auckland Region, generally running approximately 
+		25 km (15.5 mi) from north to south, 25 km west of central Auckland, New Zealand. The maximum elevation within 
+		the ranges is 474 m (1555 ft). The ranges and surrounding areas were traditionally known to local Māori as 
+		Te Wao Nui o Tiriwa (The Great Forest of Tiriwa). It is under the jurisdiction of the Auckland Council.</description>
+        <picture>waitakere</picture>
+        <latitude>-36.95304	</latitude>
+        <longitude>174.55902</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+	
+	<place>
+        <id>52</id>
+        <name>Kauri Point Centennial Park</name>
+        <category>5</category>
+        <description>Kauri Point Centennial Park is accessible off Onetaunga Road, and has walks that 
+		take you to the tranquil beach of Kendall Bay. Several lookouts afford good views of the harbour. 
+		Here is the only remaining example of a fortified pa on Waitemata Harbour. Some of the land 
+		was originally owned by Sir John Logan Campbell. Much of the land was taken for harbour and 
+		defence purposes earlier this century. In 1987, 22 hectares were purchased from the Harbour 
+		Board to form the present park. Wetlands and regenerating native bush are a feature.</description>
+        <picture>kauri</picture>
+        <latitude>-36.82252</latitude>
+        <longitude>174.70873</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+
+	<place>
+        <id>53</id>
+        <name>Wenderholm</name>
+        <category>5</category>
+        <description>Wenderholm Regional Park is the first regional park of the Auckland Region, New Zealand.
+		Situated between the estuaries of the Puhoi River and the Waiwera River, on the east coast of New Zealand's
+		North Island, the park features a homestead known as Couldrey House, and a carved pouwhenua.
+		This park also features a Maungatauhoro Te Hikoi walk, starting at the carved pouwhenua near the Couldrey
+		House, and allows the park visitors to see scenic views and birdlife.
+		The park has its own resident artist, and part is sectioned off for ecological restoration.</description>
+        <picture>wenderholm</picture>
+        <latitude>-36.53710</latitude>
+        <longitude>174.71184</longitude>
+        <note></note>
+        <favorite>0</favorite>
+    </place>
+</resources>

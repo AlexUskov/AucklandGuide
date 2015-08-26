@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item>
+        <category_id>1</category_id>
+        <category_name>Auckland</category_name>
+        <category_picture>auckland</category_picture>
+    </item>
+
+    <item>
+        <category_id>2</category_id>
+        <category_name>Beaches</category_name>
+        <category_picture>beach</category_picture>
+    </item>
+
+    <item>
+        <category_id>3</category_id>
+        <category_name>Festivals</category_name>
+        <category_picture>fest</category_picture>
+    </item>
+
+    <item>
+        <category_id>4</category_id>
+        <category_name>Museums</category_name>
+        <category_picture>museum</category_picture>
+    </item>
+
+    <item>
+        <category_id>5</category_id>
+        <category_name>Parks</category_name>
+        <category_picture>park</category_picture>
+    </item>
+
+    <item>
+        <category_id>6</category_id>
+        <category_name>Volcanoes</category_name>
+        <category_picture>volcano</category_picture>
+    </item>
+
+    <item>
+        <category_id>7</category_id>
+        <category_name>Favorites</category_name>
+        <category_picture>icon</category_picture>
+    </item>
+</resources>

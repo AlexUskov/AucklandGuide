@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:gravity="center_vertical"
+  android:orientation="horizontal">
+  <ImageView
+    android:id="@+id/place_icon"
+    android:layout_width="101dp"
+    android:layout_height="100dp"
+    android:layout_marginBottom="8dp"
+    android:layout_marginTop="8dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="20dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <TextView
+            android:id="@+id/place_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="RobotoRegular"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:layout_toLeftOf="@+id/favorite_checkBox"
+            android:layout_toStartOf="@+id/favorite_checkBox"/>
+
+        <TextView
+            android:id="@+id/place_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="RobotoRegular"
+            android:textSize="14sp"
+            android:layout_below="@+id/place_title"
+            android:layout_toLeftOf="@+id/mapButton"
+            android:layout_toStartOf="@+id/mapButton"/>
+
+               <ImageButton
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:id="@+id/mapButton"
+                    android:background="@drawable/map_image_button"
+                    android:scaleType="fitCenter"
+                    android:padding="2dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"/>
+
+                <CheckBox
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:id="@+id/favorite_checkBox"
+                    android:background="@drawable/favorite_chck_box"
+                    android:button="@null"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignLeft="@+id/mapButton"
+                    android:layout_alignStart="@+id/mapButton"/>
+    </RelativeLayout>
+
+
+</LinearLayout>
